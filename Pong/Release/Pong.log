@@ -1,0 +1,16 @@
+﻿  ball_and_paddle.cpp
+  main.cpp
+C:\Users\claza\source\repos\Pong\Pong\main.cpp(21,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\claza\source\repos\Pong\Pong\main.cpp(28,44): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\claza\source\repos\Pong\Pong\main.cpp(33,52): warning C4018: '>=': signed/unsigned mismatch
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 181 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+raylib.lib(rcore.obj) : warning LNK4099: PDB '' was not found with 'raylib.lib(rcore.obj)' or at ''; linking object as if no debug info
+raylib.lib(rglfw.obj) : warning LNK4099: PDB '' was not found with 'raylib.lib(rglfw.obj)' or at ''; linking object as if no debug info
+raylib.lib(rshapes.obj) : warning LNK4099: PDB '' was not found with 'raylib.lib(rshapes.obj)' or at ''; linking object as if no debug info
+raylib.lib(rtext.obj) : warning LNK4099: PDB '' was not found with 'raylib.lib(rtext.obj)' or at ''; linking object as if no debug info
+raylib.lib(rtextures.obj) : warning LNK4099: PDB '' was not found with 'raylib.lib(rtextures.obj)' or at ''; linking object as if no debug info
+raylib.lib(utils.obj) : warning LNK4099: PDB '' was not found with 'raylib.lib(utils.obj)' or at ''; linking object as if no debug info
+  Pong.vcxproj -> C:\Users\claza\source\repos\Pong\Release\Pong.exe

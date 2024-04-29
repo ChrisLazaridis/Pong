@@ -1,4 +1,5 @@
 #include "ball_and_paddle.h"
+#include <complex>
 void paddle::draw() const
 {
     DrawRectangleRec(get_rec(), color);
@@ -22,14 +23,11 @@ void paddle::move_down()
 
 void paddle::move_ai(const ball& ball_obj)
 {
-    if (ball_obj.y + difficulty  < y - height / 2)
-    {
-        y -= speed * GetFrameTime();
-    }
-    if (ball_obj.y - difficulty > y + height / 2)
-    {
-        y += speed * GetFrameTime();
-    }
+	const float error = ball_obj.y - y;
+
+	const float speed_adjustment = difficulty * error * 5 ;
+
+    y += speed_adjustment * GetFrameTime();
 }
 
 Rectangle paddle::get_rec() const

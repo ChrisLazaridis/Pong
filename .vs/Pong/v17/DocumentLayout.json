@@ -5,6 +5,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{48ADFAD0-47DA-4B35-B825-16948C8E3903}|Pong\\Pong.vcxproj|C:\\Users\\claza\\source\\repos\\Pong\\Pong\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{48ADFAD0-47DA-4B35-B825-16948C8E3903}|Pong\\Pong.vcxproj|solutionrelative:Pong\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48ADFAD0-47DA-4B35-B825-16948C8E3903}|Pong\\Pong.vcxproj|C:\\Users\\claza\\source\\repos\\Pong\\Pong\\ball_and_paddle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{48ADFAD0-47DA-4B35-B825-16948C8E3903}|Pong\\Pong.vcxproj|solutionrelative:Pong\\ball_and_paddle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48ADFAD0-47DA-4B35-B825-16948C8E3903}|Pong\\Pong.vcxproj|C:\\Users\\claza\\source\\repos\\Pong\\Pong\\ball_and_paddle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{48ADFAD0-47DA-4B35-B825-16948C8E3903}|Pong\\Pong.vcxproj|solutionrelative:Pong\\ball_and_paddle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,11 +22,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ball_and_paddle.h",
+              "DocumentMoniker": "C:\\Users\\claza\\source\\repos\\Pong\\Pong\\ball_and_paddle.h",
+              "RelativeDocumentMoniker": "Pong\\ball_and_paddle.h",
+              "ToolTip": "C:\\Users\\claza\\source\\repos\\Pong\\Pong\\ball_and_paddle.h",
+              "RelativeToolTip": "Pong\\ball_and_paddle.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-29T15:49:40.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ball_and_paddle.cpp",
+              "DocumentMoniker": "C:\\Users\\claza\\source\\repos\\Pong\\Pong\\ball_and_paddle.cpp",
+              "RelativeDocumentMoniker": "Pong\\ball_and_paddle.cpp",
+              "ToolTip": "C:\\Users\\claza\\source\\repos\\Pong\\Pong\\ball_and_paddle.cpp",
+              "RelativeToolTip": "Pong\\ball_and_paddle.cpp",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAABsAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-29T15:49:35.883Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -28,7 +62,7 @@
               "RelativeDocumentMoniker": "Pong\\main.cpp",
               "ToolTip": "C:\\Users\\claza\\source\\repos\\Pong\\Pong\\main.cpp",
               "RelativeToolTip": "Pong\\main.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAFAAAA",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAADkAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-04-27T21:33:55.765Z",
               "EditorCaption": ""
